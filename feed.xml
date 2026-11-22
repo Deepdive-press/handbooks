@@ -3,9 +3,9 @@
   <channel>
     <title>深潜手册 · 并行调研汇编</title>
     <link>https://deepdive-press.github.io/handbooks/</link>
-    <description>27 本深度手册：Web3 变现、AI 变现、安全防护、独立开发、实体制造与个人操作系统，每本附一手来源链接。</description>
+    <description>28 本深度手册：Web3 变现、AI 变现、安全防护、独立开发、实体制造与个人操作系统，每本附一手来源链接。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:48:00 GMT</lastBuildDate>
     <ttl>1440</ttl>
     <atom:link href="https://deepdive-press.github.io/handbooks/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -70,6 +70,13 @@
       <guid isPermaLink="true">https://deepdive-press.github.io/handbooks/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C.html</guid>
       <pubDate>Sat, 24 Oct 2026 01:00:00 GMT</pubDate>
       <description>个人数据在 AI 时代的暴露面、权限管理、设备防护与泄露应急。</description>
+    </item>
+    <item>
+      <title>《长寿与自我量化手册》28 章</title>
+      <link>https://deepdive-press.github.io/handbooks/%E9%95%BF%E5%AF%BF%E8%87%AA%E6%88%91%E9%87%8F%E5%8C%96%E6%89%8B%E5%86%8C.html</link>
+      <guid isPermaLink="true">https://deepdive-press.github.io/handbooks/%E9%95%BF%E5%AF%BF%E8%87%AA%E6%88%91%E9%87%8F%E5%8C%96%E6%89%8B%E5%86%8C.html</guid>
+      <pubDate>Sun, 22 Nov 2026 01:00:00 GMT</pubDate>
+      <description>体检指标与可穿戴基线、运动营养睡眠的循证干预、biohacking 与长寿生物科技的证据与监管拆解、心理与压力的循证自助，到健康数据隐私与 90 天重启计划——量化是把尺子不是法官。</description>
     </item>
     <item>
       <title>《宠物经济手册》28 章</title>
