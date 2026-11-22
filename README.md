@@ -2,11 +2,11 @@
 
 # 📚 深潜手册 · DeepDive Press
 
-**25 本深度手册 · 630 章 · 全部由多智能体流水线实时调研汇编**
+**27 本深度手册 · 686 章 · 全部由多智能体流水线实时调研汇编**
 
 [🚀 在线阅读](https://deepdive-press.github.io/handbooks/) · [📡 RSS 订阅](https://deepdive-press.github.io/handbooks/feed.xml)
 
-![books](https://img.shields.io/badge/%E6%89%8B%E5%86%8C-25%E6%9C%AC-5a67c2?style=flat-square) ![chapters](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-630-4aa583?style=flat-square) ![formats](https://img.shields.io/badge/%E6%A0%BC%E5%BC%8F-%E7%BD%91%E9%A1%B5%20%C2%B7%20EPUB%20%C2%B7%20PDF-dfa63e?style=flat-square) ![honest](https://img.shields.io/badge/%E6%95%B0%E5%AD%97-%E6%8A%BD%E6%9F%A5%E5%91%98%E5%88%B6%E5%BA%A6-d3707f?style=flat-square)
+![books](https://img.shields.io/badge/%E6%89%8B%E5%86%8C-27%E6%9C%AC-5a67c2?style=flat-square) ![chapters](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-686-4aa583?style=flat-square) ![formats](https://img.shields.io/badge/%E6%A0%BC%E5%BC%8F-%E7%BD%91%E9%A1%B5%20%C2%B7%20EPUB%20%C2%B7%20PDF-dfa63e?style=flat-square) ![honest](https://img.shields.io/badge/%E6%95%B0%E5%AD%97-%E6%8A%BD%E6%9F%A5%E5%91%98%E5%88%B6%E5%BA%A6-d3707f?style=flat-square)
 
 💰 赚钱线 · 🧭 手艺线 · 🛡️ 防线 · 🌊 出海 · 🏭 实体 · 🏠 基建 · ⚡ 内功 · 🧲 AI 流量 · 🛠️ AI 生态 · 🚢 出海 · 🧠 内功
 
@@ -28,7 +28,7 @@
 - 📦 **格式齐全** —— 网页在线阅读 / 微信读书 EPUB / 部分附 90 天领读版与精华卡片包
 - 🆓 **完全免费 + RSS** —— 新书发布自动推送到订阅器
 
-## 书单（25 本 / 630 章）
+## 书单（27 本 / 686 章）
 
 | # | 手册 | 章 | 一句话 | 链接 |
 |---|---|---|---|---|
@@ -57,6 +57,8 @@
 | 23 | **银发生意手册** | 28 | 七大银发服务机会逐个拆到成本与合规，子女代际获客与 AI 杠杆，到 90 天启动。 | [📖 阅读](https://deepdive-press.github.io/handbooks/%E9%93%B6%E5%8F%91%E7%94%9F%E6%84%8F%E6%89%8B%E5%86%8C.html) · [EPUB](https://deepdive-press.github.io/handbooks/%E9%93%B6%E5%8F%91%E7%94%9F%E6%84%8F%E6%89%8B%E5%86%8C_%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6.epub) |
 | 24 | **二手闲置生意手册** | 28 | 十大品类与国内外平台横评，货源验货翻新定价到内容化卖货与跨境出口，风控售后防线。 | [📖 阅读](https://deepdive-press.github.io/handbooks/%E4%BA%8C%E6%89%8B%E9%97%B2%E7%BD%AE%E7%94%9F%E6%84%8F%E6%89%8B%E5%86%8C.html) · [EPUB](https://deepdive-press.github.io/handbooks/%E4%BA%8C%E6%89%8B%E9%97%B2%E7%BD%AE%E7%94%9F%E6%84%8F%E6%89%8B%E5%86%8C_%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6.epub) |
 | 25 | **AI 求职手册** | 28 | 雇主侧 AI 筛选逻辑、AI 简历工厂与模拟面试、网申内推猎头流水线，到转行 90 天与职场 AI 提效。 | [📖 阅读](https://deepdive-press.github.io/handbooks/AI%E6%B1%82%E8%81%8C%E6%89%8B%E5%86%8C.html) · [EPUB](https://deepdive-press.github.io/handbooks/AI%E6%B1%82%E8%81%8C%E6%89%8B%E5%86%8C_%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6.epub) |
+| 26 | **收藏卡牌与评级手册** | 28 | 卡牌市场全景与价值逻辑、评级规则与送评实战、卖卡渠道横评与直播拆卡合规，到周期泡沫识别与 90 天入门计划。 | [📖 阅读](https://deepdive-press.github.io/handbooks/%E6%94%B6%E8%97%8F%E5%8D%A1%E7%89%8C%E6%89%8B%E5%86%8C.html) · [EPUB](https://deepdive-press.github.io/handbooks/%E6%94%B6%E8%97%8F%E5%8D%A1%E7%89%8C%E6%89%8B%E5%86%8C_%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6.epub) |
+| 27 | **宠物经济手册** | 28 | 市场全景与赛道拆解、上门喂养到殡葬的轻资产起步、内容带货与出海放大，到合规地图与 90 天启动计划。 | [📖 阅读](https://deepdive-press.github.io/handbooks/%E5%AE%A0%E7%89%A9%E7%BB%8F%E6%B5%8E%E6%89%8B%E5%86%8C.html) · [EPUB](https://deepdive-press.github.io/handbooks/%E5%AE%A0%E7%89%A9%E7%BB%8F%E6%B5%8E%E6%89%8B%E5%86%8C_%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6.epub) |
 
 ## 这套书是怎么写出来的
 
@@ -87,7 +89,7 @@ https://deepdive-press.github.io/handbooks/feed.xml
 
 <div align="center">
 
-**[25 本手册 · 630 章 · 持续更新中](https://deepdive-press.github.io/handbooks/)**
+**[27 本手册 · 686 章 · 持续更新中](https://deepdive-press.github.io/handbooks/)**
 
 由 ZCode 多智能体流水线调研汇编 · 内容仅供学习参考
 
