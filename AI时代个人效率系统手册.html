@@ -223,8 +223,9 @@
     border-radius:999px;padding:6px 10px;box-shadow:0 6px 22px rgba(20,24,60,.35);
     -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);}
   body.night .rtoolbar{background:rgba(42,47,61,.94);}
-  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:32px;
-    border-radius:999px;cursor:pointer;line-height:1;}
+  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:34px;
+    border-radius:999px;cursor:pointer;line-height:1;position:relative;}
+  .rtoolbar button::after{content:'';position:absolute;inset:-5px;border-radius:999px;} /* P1-3 热区 44px，视觉不变 */
   .rtoolbar button:hover{background:rgba(255,255,255,.14);}
   .rtoolbar button.on{background:#E8590C;}
   .rtoolbar .pct{font-size:11px;min-width:38px;text-align:center;color:rgba(255,255,255,.8);font-variant-numeric:tabular-nums;}
@@ -260,14 +261,14 @@
 <meta property="og:title" content="《AI 时代的个人效率系统》 · 24 章深度版 · 2026-11">
 <meta property="og:description" content="24 章深度拆解：给自己装一套经得起 AI 时代检验的操作系统。从注意力工程、任务管理、第二大脑，到 AI 写作流、AI 精读、本地 RAG 知识库与间隔重复记忆，再到精力管理、数字极简与复盘迭代——不翻译老方法，重写 AI 时代的那一半。四大板块：认知与基建、AI 工作流、健康与可持续、整合与迭代">
 <meta property="og:url" content="https://deepdive-press.github.io/handbooks/AI%E6%97%B6%E4%BB%A3%E4%B8%AA%E4%BA%BA%E6%95%88%E7%8E%87%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C.html">
-<meta property="og:image" content="https://deepdive-press.github.io/handbooks/covers/AI%E6%97%B6%E4%BB%A3%E4%B8%AA%E4%BA%BA%E6%95%88%E7%8E%87%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C.webp?v=1795174559">
+<meta property="og:image" content="https://deepdive-press.github.io/handbooks/covers/AI%E6%97%B6%E4%BB%A3%E4%B8%AA%E4%BA%BA%E6%95%88%E7%8E%87%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C.webp?v=1795344400">
 <meta property="og:image:width" content="600">
 <meta property="og:image:height" content="800">
 <meta property="og:locale" content="zh_CN">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="《AI 时代的个人效率系统》 · 24 章深度版 · 2026-11">
 <meta name="twitter:description" content="24 章深度拆解：给自己装一套经得起 AI 时代检验的操作系统。从注意力工程、任务管理、第二大脑，到 AI 写作流、AI 精读、本地 RAG 知识库与间隔重复记忆，再到精力管理、数字极简与复盘迭代——不翻译老方法，重写 AI 时代的那一半。四大板块：认知与基建、AI 工作流、健康与可持续、整合与迭代">
-<meta name="twitter:image" content="https://deepdive-press.github.io/handbooks/covers/AI%E6%97%B6%E4%BB%A3%E4%B8%AA%E4%BA%BA%E6%95%88%E7%8E%87%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C.webp?v=1795174559">
+<meta name="twitter:image" content="https://deepdive-press.github.io/handbooks/covers/AI%E6%97%B6%E4%BB%A3%E4%B8%AA%E4%BA%BA%E6%95%88%E7%8E%87%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C.webp?v=1795344400">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>

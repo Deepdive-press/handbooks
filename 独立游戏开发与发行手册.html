@@ -223,8 +223,9 @@
     border-radius:999px;padding:6px 10px;box-shadow:0 6px 22px rgba(20,24,60,.35);
     -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);}
   body.night .rtoolbar{background:rgba(42,47,61,.94);}
-  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:32px;
-    border-radius:999px;cursor:pointer;line-height:1;}
+  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:34px;
+    border-radius:999px;cursor:pointer;line-height:1;position:relative;}
+  .rtoolbar button::after{content:'';position:absolute;inset:-5px;border-radius:999px;} /* P1-3 热区 44px，视觉不变 */
   .rtoolbar button:hover{background:rgba(255,255,255,.14);}
   .rtoolbar button.on{background:#E8590C;}
   .rtoolbar .pct{font-size:11px;min-width:38px;text-align:center;color:rgba(255,255,255,.8);font-variant-numeric:tabular-nums;}
@@ -260,14 +261,14 @@
 <meta property="og:title" content="《独立游戏开发与发行手册》 · 24 章深度版 · 2026-11">
 <meta property="og:description" content="24 章深度拆解：一个人也能做完并卖出一款游戏。从立项、引擎选型、美术音频，到 Steam 愿望单运营、TapTap/WeGame 国产端、发行商谈判与众筹融资，再到收入分成、合规与失败复盘——每一步拆到门槛、成本与真实数据。四大板块：入场与立项、Steam 上线与渠道、发行商与增长、财务与生存。">
 <meta property="og:url" content="https://deepdive-press.github.io/handbooks/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%8E%E5%8F%91%E8%A1%8C%E6%89%8B%E5%86%8C.html">
-<meta property="og:image" content="https://deepdive-press.github.io/handbooks/covers/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%8E%E5%8F%91%E8%A1%8C%E6%89%8B%E5%86%8C.webp?v=1795174559">
+<meta property="og:image" content="https://deepdive-press.github.io/handbooks/covers/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%8E%E5%8F%91%E8%A1%8C%E6%89%8B%E5%86%8C.webp?v=1795344400">
 <meta property="og:image:width" content="600">
 <meta property="og:image:height" content="800">
 <meta property="og:locale" content="zh_CN">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="《独立游戏开发与发行手册》 · 24 章深度版 · 2026-11">
 <meta name="twitter:description" content="24 章深度拆解：一个人也能做完并卖出一款游戏。从立项、引擎选型、美术音频，到 Steam 愿望单运营、TapTap/WeGame 国产端、发行商谈判与众筹融资，再到收入分成、合规与失败复盘——每一步拆到门槛、成本与真实数据。四大板块：入场与立项、Steam 上线与渠道、发行商与增长、财务与生存。">
-<meta name="twitter:image" content="https://deepdive-press.github.io/handbooks/covers/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%8E%E5%8F%91%E8%A1%8C%E6%89%8B%E5%86%8C.webp?v=1795174559">
+<meta name="twitter:image" content="https://deepdive-press.github.io/handbooks/covers/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%8E%E5%8F%91%E8%A1%8C%E6%89%8B%E5%86%8C.webp?v=1795344400">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>

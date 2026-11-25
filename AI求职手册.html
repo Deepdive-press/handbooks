@@ -223,8 +223,9 @@
     border-radius:999px;padding:6px 10px;box-shadow:0 6px 22px rgba(20,24,60,.35);
     -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);}
   body.night .rtoolbar{background:rgba(42,47,61,.94);}
-  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:32px;
-    border-radius:999px;cursor:pointer;line-height:1;}
+  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:34px;
+    border-radius:999px;cursor:pointer;line-height:1;position:relative;}
+  .rtoolbar button::after{content:'';position:absolute;inset:-5px;border-radius:999px;} /* P1-3 热区 44px，视觉不变 */
   .rtoolbar button:hover{background:rgba(255,255,255,.14);}
   .rtoolbar button.on{background:#E8590C;}
   .rtoolbar .pct{font-size:11px;min-width:38px;text-align:center;color:rgba(255,255,255,.8);font-variant-numeric:tabular-nums;}

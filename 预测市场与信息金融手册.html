@@ -223,8 +223,9 @@
     border-radius:999px;padding:6px 10px;box-shadow:0 6px 22px rgba(20,24,60,.35);
     -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);}
   body.night .rtoolbar{background:rgba(42,47,61,.94);}
-  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:32px;
-    border-radius:999px;cursor:pointer;line-height:1;}
+  .rtoolbar button{border:none;background:transparent;color:#fff;font-size:14px;width:34px;height:34px;
+    border-radius:999px;cursor:pointer;line-height:1;position:relative;}
+  .rtoolbar button::after{content:'';position:absolute;inset:-5px;border-radius:999px;} /* P1-3 热区 44px，视觉不变 */
   .rtoolbar button:hover{background:rgba(255,255,255,.14);}
   .rtoolbar button.on{background:#E8590C;}
   .rtoolbar .pct{font-size:11px;min-width:38px;text-align:center;color:rgba(255,255,255,.8);font-variant-numeric:tabular-nums;}
@@ -260,14 +261,14 @@
 <meta property="og:title" content="《预测市场与信息金融手册》 · 28 章深度版 · 2026-11">
 <meta property="og:description" content="28 章深度拆解：把概率判断变成一门严谨的手艺。预测市场（Polymarket、Kalshi 等）的合约解剖、概率定价与结算规则，加上量化视角的行情数据、回测框架与风险数学——研究在先、仓位在后、合规贯穿始终。四大板块：认知与地基、预测市场实战、量化与数据、延伸与防线。">
 <meta property="og:url" content="https://deepdive-press.github.io/handbooks/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E9%87%91%E8%9E%8D%E6%89%8B%E5%86%8C.html">
-<meta property="og:image" content="https://deepdive-press.github.io/handbooks/covers/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E9%87%91%E8%9E%8D%E6%89%8B%E5%86%8C.webp?v=1795174559">
+<meta property="og:image" content="https://deepdive-press.github.io/handbooks/covers/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E9%87%91%E8%9E%8D%E6%89%8B%E5%86%8C.webp?v=1795344400">
 <meta property="og:image:width" content="600">
 <meta property="og:image:height" content="800">
 <meta property="og:locale" content="zh_CN">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="《预测市场与信息金融手册》 · 28 章深度版 · 2026-11">
 <meta name="twitter:description" content="28 章深度拆解：把概率判断变成一门严谨的手艺。预测市场（Polymarket、Kalshi 等）的合约解剖、概率定价与结算规则，加上量化视角的行情数据、回测框架与风险数学——研究在先、仓位在后、合规贯穿始终。四大板块：认知与地基、预测市场实战、量化与数据、延伸与防线。">
-<meta name="twitter:image" content="https://deepdive-press.github.io/handbooks/covers/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E9%87%91%E8%9E%8D%E6%89%8B%E5%86%8C.webp?v=1795174559">
+<meta name="twitter:image" content="https://deepdive-press.github.io/handbooks/covers/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E9%87%91%E8%9E%8D%E6%89%8B%E5%86%8C.webp?v=1795344400">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>
