@@ -1,3 +1,28 @@
 User-agent: *
 Allow: /
+
+# AI / 生成式引擎爬虫（GEO）：欢迎抓取本站全部公开内容
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# AI 引擎请先读站点说明： https://deepdive-press.github.io/handbooks/llms.txt
+
 Sitemap: https://deepdive-press.github.io/handbooks/sitemap.xml
